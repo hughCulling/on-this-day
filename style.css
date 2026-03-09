@@ -516,6 +516,9 @@ body {
   padding: 20px 24px;
   border-bottom: 1px solid var(--border);
   background: var(--bg-2);
+  position: sticky;
+  top: 0;
+  z-index: 20;
 }
 
 .date-picker-wrapper {
@@ -534,14 +537,15 @@ body {
   position: relative;
   display: flex;
   align-items: center;
+  z-index: 10;
 }
 
 #date-picker {
   position: absolute;
   opacity: 0;
-  inset: 0;
-  cursor: pointer;
-  width: 100%;
+  pointer-events: none;
+  width: 0;
+  height: 0;
   border: none;
 }
 

@@ -1,0 +1,652 @@
+======================================================================
+  DATA EXPORT STRUCTURE EXPLORER
+  (No personal values are ever printed — structure & types only)
+======================================================================
+
+Target:  /Users/hughculling/Documents/Personal Data/Started on 2026:02:27/GitHub
+Scanned: 09/03/2026, 21:10:43
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOLDER TREE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 GitHub/
+  📁 5c6f23da-13e4-11f1-8982-f2e9bd5a21a4/
+    📁 repositories/
+      📁 hughCulling/
+        📁 album-art-generator-old.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-4c61e5dbd9e964f4256089cad53da6ad8a5c359d.idx  (3.7KB)
+              📄 pack-4c61e5dbd9e964f4256089cad53da6ad8a5c359d.pack  (59.1MB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (199B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 album-art-generator.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-7200d044910296fbb213d164c8b370db4b53d8cb.idx  (5.8KB)
+              📄 pack-7200d044910296fbb213d164c8b370db4b53d8cb.pack  (213.4KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 album-art.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-3473c7beeb2a014f5a476477f11d28b7d69e86b4.idx  (2.0KB)
+              📄 pack-3473c7beeb2a014f5a476477f11d28b7d69e86b4.pack  (190.0KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 amplify-react-graphql.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-9229e7d510bd5cb1060971116fe595401df8cd4e.idx  (1.6KB)
+              📄 pack-9229e7d510bd5cb1060971116fe595401df8cd4e.pack  (174.4KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 angular-getting-started-try-it.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-585592c98db09d1a1a7b4762e9de9024ac3f3f7c.idx  (2.1KB)
+              📄 pack-585592c98db09d1a1a7b4762e9de9024ac3f3f7c.pack  (130.9KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 audio-interface-music.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-02816fdd1b9df5086a67fc0c808d43cee42300ed.idx  (12.3KB)
+              📄 pack-02816fdd1b9df5086a67fc0c808d43cee42300ed.pack  (724.3KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (201B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 aws-starter-react-for-github-actions.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-8697726f36e105d4d95a713a910e0638b7bb7100.idx  (2.1KB)
+              📄 pack-8697726f36e105d4d95a713a910e0638b7bb7100.pack  (207.5KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (23B)
+          📄 packed-refs  (105B)
+        📁 create-react-app.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-cc32e1da5fcaa7a28e4eb7c5a23d1c28648b09d7.idx  (1.6KB)
+              📄 pack-cc32e1da5fcaa7a28e4eb7c5a23d1c28648b09d7.pack  (176.5KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 digital-human.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-92e7701364581b23fddfd84ecbf8be4625508168.idx  (6.2KB)
+              📄 pack-92e7701364581b23fddfd84ecbf8be4625508168.pack  (300.2KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (343B)
+        📁 examples-hugh.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-5a5532bbd4af175850b6feb9d0fbe76a845f7ab6.idx  (8.3KB)
+              📄 pack-5a5532bbd4af175850b6feb9d0fbe76a845f7ab6.pack  (57.1KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (199B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 firebase-hosting.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-7f8a393160f006462de1718c4ec1e185debd7367.idx  (1.5KB)
+              📄 pack-7f8a393160f006462de1718c4ec1e185debd7367.pack  (4.3KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (161B)
+        📁 hello-world.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-63ca3e0b5ac3e4076d7c6f1e22b8f5b8dadfd5ac.idx  (1.2KB)
+              📄 pack-63ca3e0b5ac3e4076d7c6f1e22b8f5b8dadfd5ac.pack  (2.0KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (199B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (161B)
+        📁 howtographql.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-76e786be749a23abd20f7bb2df5f27befd557bc6.idx  (416.0KB)
+              📄 pack-76e786be749a23abd20f7bb2df5f27befd557bc6.pack  (15.1MB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (1.9KB)
+        📁 hughCulling.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-a1962fa4866841d34aab4aef4aee11e4a234b1ed.idx  (1.4KB)
+              📄 pack-a1962fa4866841d34aab4aef4aee11e4a234b1ed.pack  (3.3KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 hughCulling.github.io.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-d7465a1a2a6b5e06313014acb5d807961cf01efc.idx  (3.3KB)
+              📄 pack-d7465a1a2a6b5e06313014acb5d807961cf01efc.pack  (24.5KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 live-music-aws.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-2550a44301144b9ae03a4cbc967e789b9c348aee.idx  (1.5KB)
+              📄 pack-2550a44301144b9ae03a4cbc967e789b9c348aee.pack  (2.5KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (160B)
+        📁 live-music-test.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-2cdcdb5a4ca9cb779b4cbe9a48c20a4cc23f5ee7.idx  (1.5KB)
+              📄 pack-2cdcdb5a4ca9cb779b4cbe9a48c20a4cc23f5ee7.pack  (5.0KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (161B)
+        📁 live-stream-music-old.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-71ff372220d27c4239d49311193694a17a41bfcd.idx  (5.7KB)
+              📄 pack-71ff372220d27c4239d49311193694a17a41bfcd.pack  (28.4KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (634B)
+        📁 live-stream-music-webpack.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-fe9b7185c80f07ea5248186b2b7efcd0bf9989e0.idx  (2.6KB)
+              📄 pack-fe9b7185c80f07ea5248186b2b7efcd0bf9989e0.pack  (136.8KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 live-stream-music.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-e76ca40327dfa724d14f6ec1caa78e15dd4e3a82.idx  (7.1KB)
+              📄 pack-e76ca40327dfa724d14f6ec1caa78e15dd4e3a82.pack  (43.9KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 lsm-15-07-2024.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-a9ccbe69f7aa2e147508d8c63984891ce3ad9e14.idx  (8.5KB)
+              📄 pack-a9ccbe69f7aa2e147508d8c63984891ce3ad9e14.pack  (154.2KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (199B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (742B)
+        📁 lsm-chat-gpt.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-6027828f7d21abfaf72916eaee7d8d50e94d0207.idx  (1.9KB)
+              📄 pack-6027828f7d21abfaf72916eaee7d8d50e94d0207.pack  (56.7KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 lsm-next-js.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-898a687c16467e0eb3f2172fb192b34b69e2ac55.idx  (3.6KB)
+              📄 pack-898a687c16467e0eb3f2172fb192b34b69e2ac55.pack  (69.6KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 lsm-ubuntu.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-03490fc14f1c1b81138dda7ac2e07117e4516db2.idx  (20.3KB)
+              📄 pack-03490fc14f1c1b81138dda7ac2e07117e4516db2.pack  (131.5KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 lsm.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-5af64330975fd77e372ca971981c8bb8c7f74750.idx  (1.9KB)
+              📄 pack-5af64330975fd77e372ca971981c8bb8c7f74750.pack  (51.7KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 magic-file.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-205cab2b7060e57e0ad7bff4589f206de6a44dc2.idx  (1.7KB)
+              📄 pack-205cab2b7060e57e0ad7bff4589f206de6a44dc2.pack  (160.6KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 mongodb-vercel.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-05d18f28213578a839edd63c96bdb08e914fa968.idx  (3.1KB)
+              📄 pack-05d18f28213578a839edd63c96bdb08e914fa968.pack  (606.4KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 my-replicate-app.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-2911375af41d6793c926065fb27b3a7d62225c5a.idx  (2.1KB)
+              📄 pack-2911375af41d6793c926065fb27b3a7d62225c5a.pack  (193.6KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (199B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 next-js-dashboard-new.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-cc443f354eacc7720bcf069c04e3e29791ae26a3.idx  (3.8KB)
+              📄 pack-cc443f354eacc7720bcf069c04e3e29791ae26a3.pack  (988.8KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 nextjs-blog.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-1ce37b0b055c7e21dfe369006425c71b464c5724.idx  (2.2KB)
+              📄 pack-1ce37b0b055c7e21dfe369006425c71b464c5724.pack  (40.3KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 nextjs-dashboard.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-73a9bf1b49f1d72b5fd0b24ca5b784d51fddeda9.idx  (4.4KB)
+              📄 pack-73a9bf1b49f1d72b5fd0b24ca5b784d51fddeda9.pack  (980.9KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (199B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 openai-realtime-twilio-demo.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-9dc27958f1099dfa0576bca71188b1ca6d266756.idx  (3.4KB)
+              📄 pack-9dc27958f1099dfa0576bca71188b1ca6d266756.pack  (91.3KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (163B)
+        📁 sleeping-pattern.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-736598d9fbefdf34498afa2999c5551267d2f778.idx  (1.9KB)
+              📄 pack-736598d9fbefdf34498afa2999c5551267d2f778.pack  (103.1KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (103B)
+        📁 Spoon-Knife-Hugh.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-054a818e70f915148e1a121f9cec337c536b4cf9.idx  (1.5KB)
+              📄 pack-054a818e70f915148e1a121f9cec337c536b4cf9.pack  (2.9KB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (198B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (171B)
+        📁 two-ais.git/
+          📁 branches/
+          📁 hooks/
+            📄 [12× .sample files, total 18.6KB]
+          📁 info/
+            📄 exclude  (240B)
+          📁 objects/
+            📁 info/
+            📁 pack/
+              📄 pack-a6d553e1e68d8ee916267c3c041bb57b31547b5b.idx  (203.3KB)
+              📄 pack-a6d553e1e68d8ee916267c3c041bb57b31547b5b.pack  (5.5MB)
+          📁 refs/
+            📁 heads/
+            📁 tags/
+          📄 config  (200B)
+          📄 description  (73B)
+          📄 HEAD  (21B)
+          📄 packed-refs  (19.0KB)
+    📄 [16× .json files, total 722.9KB]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JSON SCHEMAS  (all arrays fully scanned — no sampling)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌─ 5c6f23da-13e4-11f1-8982-f2e9bd5a21a4/bots_000001.json  (1.6KB)

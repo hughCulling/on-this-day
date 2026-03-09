@@ -1,0 +1,112 @@
+======================================================================
+  DATA EXPORT STRUCTURE EXPLORER
+  (No personal values are ever printed — structure & types only)
+======================================================================
+
+Target:  /Users/hughculling/Documents/Personal Data/Started on 2026:02:27/BBC
+Scanned: 09/03/2026, 20:51:14
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOLDER TREE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 BBC/
+  📄 Activity-from-23-February-2019.csv  (1.9MB)
+  📄 BBC-Account-information.csv  (1.6KB)
+  📄 Interaction.csv  (17.6KB)
+  📄 Messages-from-the-BBC.csv  (1.6KB)
+  📄 Notifications.webarchive  (2.3KB)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CSV FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Activity-from-23-February-2019.csv  (1.9MB, ~4952 data rows)
+  Columns (36):
+    [0] Visit Start Time UTC
+    [1] Visit Start Hour Local Time
+    [2] Destination
+    [3] URL
+    [4] Origin Of Visit
+    [5] Visitor Type
+    [6] Device Type
+    [7] Operating System and Version
+    [8] Web Browser and Version
+    [9] Mobile Application Version
+    [10] Mobile Device Manufacturer
+    [11] Mobile Device Model
+    [12] Device Screen Height
+    [13] Device Screen Width
+    [14] Browser Window Width
+    [15] Browser Cookie Acceptance Status
+    [16] Internet Connection Speed
+    [17] Internet Service Provider
+    [18] Organisation
+    [19] Visitor City
+    [20] Visitor Region
+    [21] Visitor Country
+    [22] Visitor Continent
+    [23] Event Start Time UTC
+    [24] Page Name
+    [25] Page Title
+    [26] Referrer URL
+    [27] App Type
+    [28] App Name
+    [29] Clicks Made
+    [30] Click Section
+    [31] Keywords In Search
+    [32] Media Content
+    [33] Media Content Type
+    [34] Media Content Action
+    [35] Playback Time
+
+  BBC-Account-information.csv  (1.6KB, ~4 data rows)
+  Columns (26):
+    [0] Registration date
+    [1] Site of registration
+    [2] Account last update date
+    [3] Guardian email
+    [4] Email address
+    [5] Account verified?
+    [6] Postcode
+    [7] Hometown
+    [8] Display name
+    [9] User name
+    [10] Gender
+    [11] Gender other?
+    [12] Over 18?
+    [13] Year of birth
+    [14] Date of birth
+    [15] Age
+    [16] Personalisation enabled?
+    [17] Allow tailored social media recommendations?
+    [18] Country code
+    [19] Town
+    [20] Nation
+    [21] Audience viewing region
+    [22] Sociodemographic category
+    [23] Sociodemographic group
+    [24] Sociodemographic type
+    [25] Constituency
+
+  Interaction.csv  (17.6KB, ~214 data rows)
+  Columns (4):
+    [0] Activity
+    [1] URL/Application/Section
+    [2] Title/item type
+    [3] Date/Time
+
+  Messages-from-the-BBC.csv  (1.6KB, ~12 data rows)
+  Columns (8):
+    [0] Date
+    [1] Activity
+    [2] From Email
+    [3] Email Subject
+    [4] Browser
+    [5] Client
+    [6] Operating System
+    [7] Device
+
+======================================================================
+  DONE — safe to share this output with your AI
+======================================================================
+

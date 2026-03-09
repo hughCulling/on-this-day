@@ -16,6 +16,8 @@ const PARSERS = {
     snapchat: SnapchatParser,
     metrobank: MetroBankParser,
     google: GoogleParser,
+    anthropic: AnthropicParser,
+    bbc: BBCParser,
 };
 
 // ─── DOM refs ─────────────────────────────────────────────────────────────────
@@ -83,7 +85,7 @@ function showUploadPanel(platformId) {
     // Toggle input mode: CSV = single file, JSON = folder
     if (isCsv) {
         folderInput.removeAttribute('webkitdirectory');
-        folderInput.removeAttribute('multiple');
+        folderInput.setAttribute('multiple', '');
         folderInput.setAttribute('accept', '.csv');
     } else {
         folderInput.setAttribute('webkitdirectory', '');
@@ -153,8 +155,7 @@ async function handleFiles(fileList) {
                 const text = await readFileAsText(file);
                 progressText.textContent = `Parsing ${file.name}…`;
                 await sleep(0);
-                const events = parser.parseCSV(text);
-                newEvents.push(...events);
+                const events = parser.parseCSV(text, file.name);                newEvents.push(...events);
             } catch (err) {
                 console.warn(`Could not parse ${file.name}:`, err);
             }
@@ -165,10 +166,12 @@ async function handleFiles(fileList) {
         // ── JSON or HTML folder path ───────────────────────────────────────────
         const isGoogle = parser.id === 'google';
 
+        const GOOGLE_EXTS = ['.html', '.json', '.ics', '.csv'];
         let validFiles;
         if (isGoogle) {
-            // Google parser looks for MyActivity.html files
-            validFiles = Array.from(fileList).filter(f => f.name === 'MyActivity.html');
+            validFiles = Array.from(fileList).filter(f =>
+                GOOGLE_EXTS.some(ext => f.name.toLowerCase().endsWith(ext))
+            );
         } else {
             validFiles = Array.from(fileList).filter(f => f.name.endsWith('.json'));
         }
@@ -181,10 +184,22 @@ async function handleFiles(fileList) {
         }
 
         if (isGoogle) {
-            progressText.textContent = 'Parsing Google activity (this may take a moment)…';
-            await sleep(0);
-            // Pass the flat list of MyActivity.html files to GoogleParser
-            newEvents = await parser.parseFiles(validFiles, progressText, progressFill);
+            let done = 0;
+            for (const file of validFiles) {
+                try {
+                    const text = await file.text();
+                    const relativePath = file.webkitRelativePath || file.name;
+                    progressText.textContent = `Parsing ${file.name}…`;
+                    await sleep(0);
+                    const events = parser.parse(text, relativePath);
+                    newEvents.push(...events);
+                } catch (err) {
+                    console.warn(`Could not parse ${file.name}:`, err);
+                }
+                done++;
+                progressFill.style.width = `${Math.round((done / validFiles.length) * 100)}%`;
+                if (done % 10 === 0) await sleep(0);
+            }
         } else {
             const parsedFiles = [];
             let done = 0;
@@ -209,15 +224,31 @@ async function handleFiles(fileList) {
         }
     }
 
-    // Filter out already-loaded events from this platform and add new ones
-    state.allEvents = state.allEvents.filter(e => e.source !== parser.id);
-    state.allEvents.push(...newEvents);
+    // Normalise every event: stamp source fields, convert date string → Date object
+    const stampedEvents = newEvents.map(e => {
+        const d = (e.date instanceof Date) ? e.date : new Date(e.date);
+        return Object.assign(e, {
+            source:      e.source      || parser.id,
+            sourceLabel: e.sourceLabel || parser.label,
+            sourceIcon:  e.sourceIcon  || parser.icon,
+            sourceColor: e.sourceColor || parser.color,
+            date:        d,
+            timestamp:   d.getTime(),
+        });
+    }).filter(e => !isNaN(e.date.getTime()));
 
+    // Google accumulates across multiple account uploads; others replace on re-upload
+    if (parser.id !== 'google') {
+        state.allEvents = state.allEvents.filter(e => e.source !== parser.id);
+    }
+    state.allEvents.push(...stampedEvents);
+
+    const prevCount = parser.id === 'google' ? (state.loadedPlatforms['google']?.count ?? 0) : 0;
     state.loadedPlatforms[parser.id] = {
         label: parser.label,
         icon: parser.icon,
         color: parser.color,
-        count: newEvents.length,
+        count: prevCount + stampedEvents.length,
     };
     state.activeFilters.add(parser.id);
 
@@ -225,22 +256,24 @@ async function handleFiles(fileList) {
     uploadZone.classList.remove('hidden');
 
     updateLoadedPlatformsList();
-    updateStatusBadge(parser.id, newEvents.length);
+    updateStatusBadge(parser.id, prevCount + stampedEvents.length);
 
     const viewBtn = document.getElementById('btn-view-results');
     viewBtn.style.display = 'block';
     viewBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
+// function readFileAsText(file) {
+//     return new Promise((resolve, reject) => {
+//         const reader = new FileReader();
+//         reader.onload = e => resolve(e.target.result);
+//         reader.onerror = reject;
+//         reader.readAsText(file, 'utf-8');
+//     });
+// }
 function readFileAsText(file) {
-    return new Promise((resolve, reject) => {
-        const reader = new FileReader();
-        reader.onload = e => resolve(e.target.result);
-        reader.onerror = reject;
-        reader.readAsText(file, 'utf-8');
-    });
+    return file.text();
 }
-
 function sleep(ms) {
     return new Promise(r => setTimeout(r, ms));
 }
@@ -305,6 +338,8 @@ function buildFilterChips() {
 
 function setupDatePicker() {
     const picker = document.getElementById('date-picker');
+    document.querySelector('.date-display').addEventListener('click', () => picker.showPicker());
+
     // Default to today
     const today = new Date();
     const yyyy = today.getFullYear();

@@ -1,0 +1,587 @@
+======================================================================
+  DATA EXPORT STRUCTURE EXPLORER
+  (No personal values are ever printed — structure & types only)
+======================================================================
+
+Target:  /Users/hughculling/Documents/Personal Data/Started on 2026:02:27/Google/pestigebumda@gmail.com
+Scanned: 09/03/2026, 22:18:50
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOLDER TREE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 pestigebumda@gmail.com/
+  📁 Takeout/
+    📁 Alerts/
+      📄 ALERTS-SUBSCRIPTIONS.JSON  (3B)
+    📁 Assignments/
+      📁 Collaborations/
+        📄 Collaborations.json  (3B)
+      📁 GeminiLti/
+        📄 Materials.json  (3B)
+      📁 MeetLti/
+        📄 Meetings.json  (3B)
+      📄 .DS_Store  (6.0KB)
+    📁 Chrome/
+      📄 Addresses and more.json  (74B)
+      📄 Device Information.json  (25B)
+      📄 Extensions.json  (54B)
+      📄 History.json  (97B)
+      📄 OS Settings.json  (132B)
+      📄 Settings.json  (182B)
+      📄 Bookmarks.html  (261B)
+      📄 Reading List.html  (267B)
+      📄 Dictionary.csv  (0B)
+    📁 Discover/
+      📄 Not Interested Setting.csv  (26B)
+      📄 Your Follows.csv  (16B)
+      📄 Your Liked Content.csv  (23B)
+    📁 Gemini/
+      📄 gemini_gems_data.html  (11B)
+      📄 gemini_scheduled_actions_data.html  (11B)
+    📁 Google Account/
+      📄 pestigebumda.ChangeHistory.html  (1.4KB)
+      📄 pestigebumda.SubscriberInfo.html  (2.5KB)
+    📁 Google Business Profile/
+      📁 account-117110397264476711417/
+        📄 data.json  (110B)
+      📄 businessPersonalization.json  (3B)
+    📁 Google Chat/
+      📁 Users/
+        📁 User 117110397264476711417/
+          📄 unsentmessages.json  (27B)
+          📄 user_info.json  (120B)
+    📁 Google Finance/
+      📁 Watchlists/
+        📄 Watchlist.json  (43B)
+    📁 Google Meet/
+      📁 ConferenceHistory/
+        📄 conference_history_retention.csv  (28B)
+    📁 Google Pay/
+      📁 Money sends and requests/
+        📄 Money sends and requests.csv  (67B)
+    📁 Google Play Movies & TV/
+      📄 Linked Services.json  (2B)
+      📄 Notification Preferences.json  (2B)
+      📄 Ratings.json  (2B)
+      📄 Streaming Services.json  (2B)
+      📄 Watchlist.json  (2B)
+    📁 Google Shopping/
+      📁 Merchant Reviews/
+        📄 Merchant Reviews.csv  (34B)
+      📁 Product Reviews/
+        📄 Product Reviews.csv  (40B)
+      📄 .DS_Store  (6.0KB)
+    📁 Google Store/
+      📄 Purchases.json  (3B)
+      📄 Returns and Repairs.json  (3B)
+    📁 Google Wallet/
+      📁 Boarding passes, event tickets and other passes/
+        📄 Boarding passes, event tickets and other passes.pdf  (218.5KB)
+    📁 Google Workspace Marketplace/
+      📄 README  (375B)
+    📁 Home App/
+      📄 ApplicationPermissions.json  (74B)
+      📄 Automations.json  (46B)
+      📄 GoogleNestConnect.json  (54B)
+      📄 GoogleNestPartnerConnections.json  (66B)
+      📄 HomeApp.json  (43B)
+      📄 HomeHistory.json  (2B)
+      📄 SecurityAlarmClips.json  (55B)
+      📄 SoundSensing.json  (46B)
+    📁 Maps/
+      📁 Added dishes, products, activities/
+        📄 Added dishes, products, activities.json  (25B)
+      📁 Electric vehicle settings/
+        📄 Electric vehicle settings.json  (37B)
+      📁 Questions and Answers/
+        📄 Questions and Answers.json  (75B)
+      📁 Requests for services/
+        📄 Requests for services.json  (1B)
+      📁 Vehicle profiles/
+        📄 Vehicle profiles.json  (28B)
+      📁 Your local followed places/
+        📄 Your local followed places.csv  (18B)
+      📄 .DS_Store  (8.0KB)
+    📁 My Activity/
+      📁 Takeout/
+        📄 MyActivity.html  (141.0KB)
+      📁 YouTube/
+        📄 MyActivity.html  (726.9KB)
+      📄 .DS_Store  (6.0KB)
+    📁 News/
+      📄 articles.txt  (0B)
+      📄 followed_locations.txt  (0B)
+      📄 followed_sources.txt  (0B)
+      📄 followed_topics.txt  (0B)
+      📄 magazines.txt  (0B)
+    📁 Profile/
+      📄 Profile.json  (294B)
+    📁 Search Notifications/
+      📄 USER-SETTINGS.CSV  (202B)
+      📄 USER-SUBSCRIPTIONS.CSV  (44B)
+    📁 Timeline/
+      📄 Settings.json  (669B)
+    📁 Workspace Studio/
+      📄 activity-feed.json  (0B)
+    📄 .DS_Store  (12.0KB)
+  📁 Takeout-2/
+    📁 Mail/
+      📄 All mail Including Spam and Trash.mbox  (474.0KB)
+  📁 Takeout-3/
+    📁 YouTube and YouTube Music/
+      📁 channels/
+        📄 channel community moderation settings.csv  (41B)
+        📄 channel feature data.csv  (267B)
+        📄 channel page settings.csv  (41B)
+        📄 channel URL configs.csv  (92B)
+        📄 channel.csv  (114B)
+      📁 comments/
+        📄 comments.csv  (457B)
+      📁 history/
+        📄 search-history.html  (208.3KB)
+        📄 watch-history.html  (598.7KB)
+      📁 live chats/
+        📄 live chats.csv  (369B)
+      📁 playlists/
+        📄 beats-videos.csv  (162B)
+        📄 playlists.csv  (548B)
+        📄 Tunes-videos.csv  (86B)
+        📄 Watch later-videos.csv  (162B)
+      📁 subscriptions/
+        📄 subscriptions.csv  (999B)
+      📄 .DS_Store  (6.0KB)
+    📄 .DS_Store  (6.0KB)
+  📄 .DS_Store  (6.0KB)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JSON SCHEMAS  (all arrays fully scanned — no sampling)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌─ Takeout/Alerts/ALERTS-SUBSCRIPTIONS.JSON  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Assignments/Collaborations/Collaborations.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Assignments/GeminiLti/Materials.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Assignments/MeetLti/Meetings.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Chrome/Addresses and more.json  (74B)
+│  Autofill: []
+│  Autofill Profile: []
+│  Contact Info: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Chrome/Device Information.json  (25B)
+│  Device Info: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Chrome/Extensions.json  (54B)
+│  Extensions: []
+│  Extension Settings: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Chrome/History.json  (97B)
+│  Browser History: []
+│  Typed Url: []
+│  Session: []
+│  Shared Tab Group: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Chrome/OS Settings.json  (132B)
+│  Arc Package: []
+│  OS Preferences: []
+│  OS Priority Preferences: []
+│  Workspace Desk: []
+│  Printers: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Chrome/Settings.json  (182B)
+│  App Settings: []
+│  App Lists: []
+│  Search Engines: []
+│  Apps: []
+│  Preferences: []
+│  Themes: []
+│  Priority Preferences: []
+│  Web Apps: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Business Profile/account-117110397264476711417/data.json  (110B)
+│  name: string (len=30)
+│  accountName: string (len=21)
+│  type: string (len=8)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Business Profile/businessPersonalization.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Chat/Users/User 117110397264476711417/unsentmessages.json  (27B)
+│  unsent_messages: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Chat/Users/User 117110397264476711417/user_info.json  (120B)
+│  user:
+│    name: string (len=21)
+│    email: string (email-like)
+│    user_type: string (len=5)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Finance/Watchlists/Watchlist.json  (43B)
+│  Name: string (len=9)
+│  Holdings: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Play Movies & TV/Linked Services.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Play Movies & TV/Notification Preferences.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Play Movies & TV/Ratings.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Play Movies & TV/Streaming Services.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Play Movies & TV/Watchlist.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Store/Purchases.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Google Store/Returns and Repairs.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/ApplicationPermissions.json  (74B)
+│  Home Platform Application Permissions Grants: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/Automations.json  (46B)
+│  Automations Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/GoogleNestConnect.json  (54B)
+│  Google Nest Connect Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/GoogleNestPartnerConnections.json  (66B)
+│  Google Nest Partner Connections Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/HomeApp.json  (43B)
+│  Home App Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/HomeHistory.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/SecurityAlarmClips.json  (55B)
+│  Security Alarm Clips Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Home App/SoundSensing.json  (46B)
+│  SoundSensingData: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Maps/Added dishes, products, activities/Added dishes, products, activities.json  (25B)
+│  contributions: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Maps/Electric vehicle settings/Electric vehicle settings.json  (37B)
+│  electric_vehicle_profiles: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Maps/Questions and Answers/Questions and Answers.json  (75B)
+│  answers: []
+│  questions: []
+│  replies: []
+│  thumbs_ups: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Maps/Requests for services/Requests for services.json  (1B)
+│  [Parse error: Unexpected end of JSON input]
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Maps/Vehicle profiles/Vehicle profiles.json  (28B)
+│  vehicle_profiles: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Profile/Profile.json  (294B)
+│  name:
+│    givenName: string (len=8)
+│    familyName: string (len=12)
+│    formattedName: string (len=21)
+│  displayName: string (len=21)
+│  emails: Array [1 items], each item:       value: string (email-like)
+│  birthday: string (date-like)
+│  gender:     type: string (len=4)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Timeline/Settings.json  (669B)
+│  createdTime: string (ISO-8601 datetime)
+│  modifiedTime: string (ISO-8601 datetime)
+│  hasReportedLocations: boolean
+│  hasSetRetention: boolean
+│  storeVisitControl:
+│    enabled: boolean
+│    updateTime: string (ISO-8601 datetime)
+│  retentionControl:
+│    retentionWindowDays: number
+│    updateTime: string (ISO-8601 datetime)
+│  timelineEnabled: boolean
+│  timelineDeletionTime: string (ISO-8601 datetime)
+│  latestTimelineSettingChange:     timelineEnabledModificationTime: string (ISO-8601 datetime)
+│  googleOpinionRewardsControl:
+│    enabled: boolean
+│    updateTime: string (ISO-8601 datetime)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout/Workspace Studio/activity-feed.json  (0B)
+│  [Parse error: Unexpected end of JSON input]
+└────────────────────────────────────────────────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CSV FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Takeout/Chrome/Dictionary.csv  (0B, ~-1 data rows)
+  Columns (1):
+    [0] 
+
+  Takeout/Discover/Not Interested Setting.csv  (26B, ~0 data rows)
+  Columns (1):
+    [0] Entity Name	Setting Value
+
+  Takeout/Discover/Your Follows.csv  (16B, ~0 data rows)
+  Columns (1):
+    [0] Followed Entity
+
+  Takeout/Discover/Your Liked Content.csv  (23B, ~0 data rows)
+  Columns (1):
+    [0] Content Url	Liked Date
+
+  Takeout/Google Meet/ConferenceHistory/conference_history_retention.csv  (28B, ~1 data rows)
+  Columns (1):
+    [0] Retention
+
+  Takeout/Google Pay/Money sends and requests/Money sends and requests.csv  (67B, ~0 data rows)
+  Columns (7):
+    [0] Time
+    [1] Transaction ID
+    [2] Description
+    [3] Memo
+    [4] Payment method
+    [5] Status
+    [6] Amount
+
+  Takeout/Google Shopping/Merchant Reviews/Merchant Reviews.csv  (34B, ~0 data rows)
+  Columns (3):
+    [0] Rating
+    [1] Comment
+    [2] Creation Timestamp
+
+  Takeout/Google Shopping/Product Reviews/Product Reviews.csv  (40B, ~0 data rows)
+  Columns (4):
+    [0] Rating
+    [1] Title
+    [2] Comment
+    [3] Creation Timestamp
+
+  Takeout/Maps/Your local followed places/Your local followed places.csv  (18B, ~0 data rows)
+  Columns (3):
+    [0] Place
+    [1] Address
+    [2] URL
+
+  Takeout/Search Notifications/USER-SETTINGS.CSV  (202B, ~0 data rows)
+  Columns (1):
+    [0] SCOPE IDENTIFIER	OPT IN STATE	CHANNEL IMPORTANCE	BADGE	SOUND	ALERTS	CRITICAL ALERTS	TIME SENSITIVE	NOTIFICATION CENTER	DISPLAYED ON LOCK SCREEN	ACCEPTS SCHEDULED DELIVERY	LIVE ACTIVITY	LOCATION ALLOWED
+
+  Takeout/Search Notifications/USER-SUBSCRIPTIONS.CSV  (44B, ~0 data rows)
+  Columns (1):
+    [0] SUBSCRIPTION IDENTIFIER	SUBSCRIPTION STATUS
+
+  Takeout-3/YouTube and YouTube Music/channels/channel community moderation settings.csv  (41B, ~1 data rows)
+  Columns (1):
+    [0] Channel ID
+
+  Takeout-3/YouTube and YouTube Music/channels/channel feature data.csv  (267B, ~1 data rows)
+  Columns (7):
+    [0] Channel ID
+    [1] Channel Auto Moderation in Live Chat
+    [2] Video Default Allowed Comments Type
+    [3] Video Default Targeted Audience
+    [4] Video Default License
+    [5] Video Default Location Latitude
+    [6] Video Default Location Longitude
+
+  Takeout-3/YouTube and YouTube Music/channels/channel page settings.csv  (41B, ~1 data rows)
+  Columns (1):
+    [0] Channel ID
+
+  Takeout-3/YouTube and YouTube Music/channels/channel URL configs.csv  (92B, ~1 data rows)
+  Columns (2):
+    [0] Channel ID
+    [1] Channel Vanity URL 1 Name
+
+  Takeout-3/YouTube and YouTube Music/channels/channel.csv  (114B, ~1 data rows)
+  Columns (3):
+    [0] Channel ID
+    [1] Channel Title (Original)
+    [2] Channel Visibility
+
+  Takeout-3/YouTube and YouTube Music/comments/comments.csv  (457B, ~1 data rows)
+  Columns (6):
+    [0] Comment ID
+    [1] Channel ID
+    [2] Comment Create Timestamp
+    [3] Price
+    [4] Post ID
+    [5] Comment Text
+
+  Takeout-3/YouTube and YouTube Music/live chats/live chats.csv  (369B, ~2 data rows)
+  Columns (6):
+    [0] Live Chat ID
+    [1] Channel ID
+    [2] Live Chat Create Timestamp
+    [3] Price
+    [4] Video ID
+    [5] Live Chat Text
+
+  Takeout-3/YouTube and YouTube Music/playlists/beats-videos.csv  (162B, ~3 data rows)
+  Columns (2):
+    [0] Video ID
+    [1] Playlist Video Creation Timestamp
+
+  Takeout-3/YouTube and YouTube Music/playlists/playlists.csv  (548B, ~3 data rows)
+  Columns (8):
+    [0] Playlist ID
+    [1] Add new videos to top
+    [2] Playlist Title (Original)
+    [3] Playlist Title (Original) Language
+    [4] Playlist Create Timestamp
+    [5] Playlist Update Timestamp
+    [6] Playlist Video Order
+    [7] Playlist Visibility
+
+  Takeout-3/YouTube and YouTube Music/playlists/Tunes-videos.csv  (86B, ~1 data rows)
+  Columns (2):
+    [0] Video ID
+    [1] Playlist Video Creation Timestamp
+
+  Takeout-3/YouTube and YouTube Music/playlists/Watch later-videos.csv  (162B, ~3 data rows)
+  Columns (2):
+    [0] Video ID
+    [1] Playlist Video Creation Timestamp
+
+  Takeout-3/YouTube and YouTube Music/subscriptions/subscriptions.csv  (999B, ~10 data rows)
+  Columns (3):
+    [0] Channel Id
+    [1] Channel Url
+    [2] Channel Title
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HTML FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Takeout/Chrome/Bookmarks.html  (261B)
+  Top tags: p(×2), meta(×1), title(×1), h1(×1), dl(×1)
+  CSS classes (0):
+
+  Takeout/Chrome/Reading List.html  (267B)
+  Top tags: p(×2), meta(×1), title(×1), h1(×1), dl(×1)
+  CSS classes (0):
+
+  Takeout/Gemini/gemini_gems_data.html  (11B)
+  Top tags: div(×1)
+  CSS classes (0):
+
+  Takeout/Gemini/gemini_scheduled_actions_data.html  (11B)
+  Top tags: div(×1)
+  CSS classes (0):
+
+  Takeout/Google Account/pestigebumda.ChangeHistory.html  (1.4KB)
+  Top tags: td(×40), tr(×9), th(×5), li(×2), head(×1), meta(×1), title(×1), style(×1), h2(×1), ul(×1), br(×1), table(×1)
+  CSS classes (0):
+
+  Takeout/Google Account/pestigebumda.SubscriberInfo.html  (2.5KB)
+  Top tags: li(×27), div(×8), th(×8), td(×8), ul(×7), b(×4), br(×3), tr(×2), head(×1), meta(×1), title(×1), style(×1)
+  CSS classes (1):
+    .section
+
+  Takeout/My Activity/Takeout/MyActivity.html  (141.0KB)
+  Top tags: br(×9), div(×7), b(×2), html(×1), head(×1), title(×1), style(×1), body(×1), p(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout/My Activity/YouTube/MyActivity.html  (726.9KB)
+  Top tags: br(×2681), div(×2419), a(×1069), b(×732), p(×403), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout-3/YouTube and YouTube Music/history/search-history.html  (208.3KB)
+  Top tags: div(×475), br(×474), a(×158), b(×158), p(×79), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout-3/YouTube and YouTube Music/history/watch-history.html  (598.7KB)
+  Top tags: br(×2640), div(×2280), a(×1122), b(×758), p(×380), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OTHER TEXT FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Takeout/News/articles.txt  (0B)
+  Preview: 
+
+  Takeout/News/followed_locations.txt  (0B)
+  Preview: 
+
+  Takeout/News/followed_sources.txt  (0B)
+  Preview: 
+
+  Takeout/News/followed_topics.txt  (0B)
+  Preview: 
+
+  Takeout/News/magazines.txt  (0B)
+  Preview: 
+
+======================================================================
+  DONE — safe to share this output with your AI
+======================================================================
+

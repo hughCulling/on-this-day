@@ -1,0 +1,75 @@
+======================================================================
+  DATA EXPORT STRUCTURE EXPLORER
+  (No personal values are ever printed — structure & types only)
+======================================================================
+
+Target:  /Users/hughculling/Documents/Personal Data/Started on 2026:02:27/Anthropic
+Scanned: 09/03/2026, 19:43:43
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOLDER TREE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 Anthropic/
+  📁 data-2026-03-07-16-56-47-batch-0000/
+    📄 .DS_Store  (6.0KB)
+    📄 conversations.json  (181.6KB)
+    📄 projects.json  (2B)
+    📄 users.json  (171B)
+  📄 .DS_Store  (6.0KB)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JSON SCHEMAS  (all arrays fully scanned — no sampling)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌─ data-2026-03-07-16-56-47-batch-0000/conversations.json  (181.6KB)
+│Array [11 items], each item:
+│      uuid: string (UUID)
+│      name: string (len=35) | string (len=37) | string (len=45) | string (len=21) | string (len=38) | string (len=27) | string (len=23) | string (len=24) | string (len=13) | string (len=49) | string (len=37)
+│      summary: string (empty)
+│      created_at: string (ISO-8601 datetime)
+│      updated_at: string (ISO-8601 datetime)
+│      account:       uuid: string (UUID)
+│      chat_messages:
+│        Array [6 items], each item:
+│        uuid: string (UUID)
+│        text: string (len=464) | string (len=3210) | string (len=245) | string (len=1419) | string (email-like) | string (len=7706) | string (len=229) | string (len=8514) | string (len=36) | string (len=113) | string (len=22) | string (len=269) | string (len=69) | string (len=274) | string (len=24) | string (len=2638) | string (len=44) | string (len=322) | string (len=42) | string (len=188) | string (len=29) | string (len=525) | string (len=98) | string (len=383) | string (len=35) | string (len=601) | string (len=10) | string (len=456) | string (len=449) | string (len=638) | string (len=2701) | string (len=1980) | string (len=57) | string (email-like)
+│        content:
+│        Array [2 items], each item:
+│        start_timestamp: string (ISO-8601 datetime)
+│        stop_timestamp: string (ISO-8601 datetime)
+│        flags: null
+│        type: string (len=4) | string (len=8) | string (len=4) | string (len=4) | string (len=4) | string (len=8) | string (len=4) | string (len=4) | string (len=8) | string (len=4) | string (len=4) | string (len=4) | string (len=4) | string (len=4) | string (len=4) | string (len=4) | string (len=4) | string (len=4)
+│        text: string (len=464) | string (len=1974) | string (len=245) | string (len=1419) | string (email-like) | string (len=3993) | string (len=229) | string (len=3960) | string (len=36) | string (len=113) | string (len=22) | string (len=269) | string (len=69) | string (len=274) | string (len=24) | string (len=2638) | string (len=44) | string (len=322) | string (len=42) | string (len=188) | string (len=29) | string (len=525) | string (len=98) | string (len=383) | string (len=35) | string (len=601) | string (len=10) | string (len=456) | string (len=449) | string (len=638) | string (len=2701) | string (len=1980) | string (len=57) | string (email-like)
+│        citations: []
+│        thinking: string (len=1236) | string (len=3713) | string (len=4554)
+│        summaries: Array [6 items], each item:                 summary: string (len=67) | string (len=60) | string (len=64) | string (len=98) | string (len=60) | string (len=56) | string (len=62) | string (len=80) | string (len=92) | string (len=52) | string (len=70) | string (len=56) | string (len=70) | string (len=61)
+│        cut_off: boolean
+│        alternative_display_type: null
+│        sender: string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9) | string (len=5) | string (len=9)
+│        created_at: string (ISO-8601 datetime)
+│        updated_at: string (ISO-8601 datetime)
+│        attachments:
+│        Array [1 items], each item:
+│        file_name: string (len=20) | string (len=38)
+│        file_size: number
+│        file_type: string (len=4)
+│        extracted_content: string (email-like)
+│        files: Array [1 items], each item:             file_name: string (len=36) | string (len=12) | string (len=20) | string (len=38)
+└────────────────────────────────────────────────────────────
+
+┌─ data-2026-03-07-16-56-47-batch-0000/projects.json  (2B)
+│[]
+└────────────────────────────────────────────────────────────
+
+┌─ data-2026-03-07-16-56-47-batch-0000/users.json  (171B)
+│Array [1 items], each item:
+│      uuid: string (UUID)
+│      full_name: string (len=20)
+│      email_address: string (email-like)
+│      verified_phone_number: string (len=13)
+└────────────────────────────────────────────────────────────
+
+======================================================================
+  DONE — safe to share this output with your AI
+======================================================================
+

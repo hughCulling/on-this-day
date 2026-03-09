@@ -1,0 +1,899 @@
+======================================================================
+  DATA EXPORT STRUCTURE EXPLORER
+  (No personal values are ever printed — structure & types only)
+======================================================================
+
+Target:  /Users/hughculling/Documents/Personal Data/Started on 2026:02:27/Google/20206905@hope.ac.uk
+Scanned: 09/03/2026, 21:16:24
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOLDER TREE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 20206905@hope.ac.uk/
+  📁 Takeout/
+    📁 YouTube and YouTube Music/
+      📁 channels/
+        📄 channel community moderation settings.csv  (41B)
+        📄 channel feature data.csv  (267B)
+        📄 channel page settings.csv  (41B)
+        📄 channel URL configs.csv  (82B)
+        📄 channel.csv  (105B)
+      📁 history/
+        📄 search-history.html  (1.7MB)
+        📄 watch-history.html  (7.8MB)
+      📁 music (library and uploads)/
+        📄 music library songs.csv  (530B)
+      📁 playlists/
+        📄 playlists.csv  (318B)
+        📄 Watch later videos.csv  (162B)
+      📁 subscriptions/
+        📄 subscriptions.csv  (146B)
+      📄 .DS_Store  (6.0KB)
+    📄 .DS_Store  (6.0KB)
+  📁 Takeout-2/
+    📁 Access log activity/
+      📄 Activities – A list of Google services accessed by.csv  (42.8KB)
+      📄 Devices – A list of devices (i.e. Nest, Pixel, iPh.csv  (316B)
+    📁 Alerts/
+      📄 ALERTS-SUBSCRIPTIONS.JSON  (3B)
+    📁 Assignments/
+      📁 Collaborations/
+        📄 Collaborations.json  (3B)
+      📁 GeminiLti/
+        📄 Materials.json  (3B)
+      📁 MeetLti/
+        📄 Meetings.json  (3B)
+      📄 .DS_Store  (6.0KB)
+    📁 Calendar/
+      📄 20206905@hope.ac.uk.ics  (8.8KB)
+    📁 Chrome/
+      📄 Addresses and more.json  (74B)
+      📄 Device Information.json  (25B)
+      📄 Extensions.json  (54B)
+      📄 History.json  (26.2KB)
+      📄 OS Settings.json  (132B)
+      📄 Settings.json  (12.4KB)
+      📄 Bookmarks.html  (1.2KB)
+      📄 Reading list.html  (267B)
+      📄 Dictionary.csv  (0B)
+    📁 Discover/
+      📄 Not interested setting.csv  (26B)
+      📄 Your follows.csv  (16B)
+      📄 Your liked content.csv  (23B)
+    📁 Gemini/
+      📄 gemini_gems_data.html  (11B)
+      📄 gemini_scheduled_actions_data.html  (11B)
+    📁 Google Account/
+      📄 20206905@hope.ac.uk.ChangeHistory.html  (4.2KB)
+      📄 20206905@hope.ac.uk.SubscriberInfo.html  (3.8KB)
+    📁 Google Business Profile/
+      📁 account-109302455300896101438/
+        📄 data.json  (101B)
+      📄 businessPersonalization.json  (3B)
+    📁 Google Chat/
+      📁 Users/
+        📁 User 109302455300896101438/
+          📄 unsentmessages.json  (27B)
+          📄 user_info.json  (108B)
+    📁 Google Finance/
+      📁 Watchlists/
+        📄 Watchlist.json  (43B)
+    📁 Google Meet/
+      📁 ConferenceHistory/
+        📄 conference_history_retention.csv  (28B)
+    📁 Google Pay/
+      📁 Google transactions/
+        📄 transactions_643328055442.csv  (187B)
+      📁 Money remittances and requests/
+        📄 Money remittances and requests.csv  (67B)
+      📄 .DS_Store  (6.0KB)
+    📁 Google Play Movies & TV/
+      📄 Linked Services.json  (2B)
+      📄 Notification Preferences.json  (2B)
+      📄 Ratings.json  (2B)
+      📄 Streaming Services.json  (2B)
+      📄 Watchlist.json  (2B)
+    📁 Google Play Store/
+      📄 Library.json  (156B)
+      📄 Purchase History.json  (246B)
+    📁 Google Shopping/
+      📁 Merchant Reviews/
+        📄 Merchant Reviews.csv  (34B)
+      📁 Product Reviews/
+        📄 Product Reviews.csv  (40B)
+      📄 .DS_Store  (6.0KB)
+    📁 Google Store/
+      📄 Purchases.json  (3B)
+      📄 Returns and Repairs.json  (3B)
+    📁 Google Wallet/
+      📁 Boarding passes, event tickets and other passes/
+        📄 Boarding passes, event tickets and other passes.pdf  (218.5KB)
+    📁 Google Workspace Marketplace/
+      📄 README  (379B)
+    📁 Groups/
+      📁 googlegroups.com/
+        📁 user data/
+          📁 recent activity/
+            📄 recently viewed discussions.csv  (75B)
+            📄 recently viewed groups.csv  (137B)
+    📁 Home App/
+      📄 ApplicationPermissions.json  (74B)
+      📄 Automations.json  (46B)
+      📄 GoogleNestConnect.json  (54B)
+      📄 GoogleNestPartnerConnections.json  (66B)
+      📄 HomeApp.json  (43B)
+      📄 HomeHistory.json  (2B)
+      📄 SecurityAlarmClips.json  (55B)
+      📄 SoundSensing.json  (46B)
+    📁 Maps/
+      📁 Added dishes, products, activities/
+        📄 Added dishes, products, activities.json  (25B)
+      📁 Electric vehicle settings/
+        📄 Electric vehicle settings.json  (37B)
+      📁 Questions and answers/
+        📄 Questions and answers.json  (75B)
+      📁 Requests for services/
+        📄 Requests for services.json  (1B)
+      📁 Vehicle profiles/
+        📄 Vehicle profiles.json  (28B)
+      📁 Your local followed places/
+        📄 Your local followed places.csv  (18B)
+      📄 .DS_Store  (8.0KB)
+    📁 My Activity/
+      📁 Drive/
+        📄 My Activity.html  (151.4KB)
+      📁 Takeout/
+        📄 My Activity.html  (144.2KB)
+      📁 YouTube/
+        📄 My Activity.html  (9.4MB)
+      📄 .DS_Store  (6.0KB)
+    📁 News/
+      📄 articles.txt  (0B)
+      📄 followed_locations.txt  (0B)
+      📄 followed_sources.txt  (0B)
+      📄 followed_topics.txt  (0B)
+      📄 magazines.txt  (0B)
+    📁 Profile/
+      📄 Profile.json  (142B)
+    📁 Search Notifications/
+      📄 USER-SETTINGS.CSV  (293B)
+      📄 USER-SUBSCRIPTIONS.CSV  (44B)
+    📁 Tasks/
+      📄 Tasks.json  (348B)
+    📁 Timeline/
+      📄 Settings.json  (1.3KB)
+    📄 .DS_Store  (12.0KB)
+  📁 Takeout-3/
+    📁 Mail/
+      📄 All mail Including Spam and Trash.mbox  (50.7MB)
+  📁 Takeout-4/
+    📁 Drive/
+      📁 Colab Notebooks/
+        📁 CSCCORE2H/
+          📁 IS 14 Introduction to Deep Learning, plus Keras/
+            📄 Lab Session.ipynb  (5.8KB)
+            📄 Lecture.ipynb  (8.1KB)
+          📁 IS 15 More Deep Learning - CNNs, LSTMs and Generat/
+            📄 Week 15 CNNs.ipynb  (7.4KB)
+            📄 Week 15 LSTMs.ipynb  (60.5KB)
+            📄 Week_15_GANs.ipynb  (14.2KB)
+          📁 IS 16 Data Fundamentals/
+            📁 Intelligent Systems - Week 16- Excerises/
+              📄 Intelligent Systems - Week 16- Exercises.ipynb  (1.9KB)
+              📄 plot_comparison_over_sampling.ipynb  (15.1KB)
+          📁 IS 17 Semi-supervised Learning/
+            📄 Seminar Week-17.ipynb  (621B)
+          📁 IS 2 K-NN and Linear Regression/
+            📁 2 - K-NN Exercises/
+              📄 6.ipynb  (1.4KB)
+          📁 IS 3 K-means Clustering/
+            📁 3 - K-means Exercise/
+              📄 6.ipynb  (1.3KB)
+          📁 IS 9 Reinforcement Learning Introduction/
+            📄 Approx_qlearning_pytorch.ipynb.txt  (31.3KB)
+          📁 Submission Links/
+            📁 Submit Intelligent Systems implementation files (f/
+              📄 Predicting Gender.ipynb  (18.1KB)
+        📁 MCSEUG2022/
+          📁 Literature Review/
+            📁 Body Weight Analysis From Human Body Images/
+              📁 Conditional Random Fields as Recurrent Neural Netw/
+                📁 PyTorch version/
+                  … (max depth reached)
+              📁 Realtime Multi-Person 2D Pose Estimation Using Par/
+                📁 C++ (realtime version, for demo purpose)/
+                  … (max depth reached)
+                📁 Python/
+                  … (max depth reached)
+            📁 Estimating Human Weight from A Single Image/
+              📄 2DImage2BMI.ipynb  (651B)
+        📄 .DS_Store  (6.0KB)
+      📁 Hughs WebDev Coursework New/
+        📁 Ace Training/
+          📄 adminregister.html  (859B)
+          📄 createcourse.html  (728B)
+          📄 home.html  (264B)
+          📄 login.html  (587B)
+          📄 register.html  (374B)
+          📄 tutorregister.html  (859B)
+          📄 viewcourses.html  (429B)
+          📄 viewcoursesstudent.html  (614B)
+          📄 [14× .php files, total 18.6KB]
+        📁 Web Dev coursework/
+          📄 [27× .png files, total 1.5MB]
+        📄 .DS_Store  (6.0KB)
+        📄 READ ME.docx  (11.8KB)
+        📄 Website Development Individual Report.docx  (452.2KB)
+      📁 Magic File/
+        📁 static/
+          📁 Images/
+            📄 [9× .jpg files, total 156.5KB]
+            📄 Link Up TV.jpeg  (4.9KB)
+            📄 SBTV.jpeg  (2.8KB)
+            📄 Radio 1Xtra.png  (2.5KB)
+          📄 style.css  (121B)
+        📁 templates/
+          📄 artists.html  (988B)
+          📄 home.html  (2.2KB)
+          📄 single-artist.html  (642B)
+          📄 songs.html  (642B)
+        📄 .DS_Store  (6.0KB)
+        📄 sqlite.db  (32.0KB)
+        📄 Website Runner.py  (3.4KB)
+      📁 MCSEUG2022/
+      📄 .DS_Store  (6.0KB)
+      📄 Dissertation Supervisors.xlsx.html  (448B)
+      📄 Individual Coursework SE1 2021_2022.docx  (6.4KB)
+      📄 Website Development Individual Report.docx  (452.2KB)
+      📄 WIN_20220519_10_11_54_Pro.jpg  (147.8KB)
+      📄 WIN_20220519_10_12_08_Pro.jpg  (145.1KB)
+      📄 WIN_20220519_10_12_23_Pro.jpg  (141.2KB)
+      📄 WIN_20220519_10_12_49_Pro.jpg  (141.3KB)
+    📄 .DS_Store  (6.0KB)
+  📄 .DS_Store  (6.0KB)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JSON SCHEMAS  (all arrays fully scanned — no sampling)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌─ Takeout-2/Alerts/ALERTS-SUBSCRIPTIONS.JSON  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Assignments/Collaborations/Collaborations.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Assignments/GeminiLti/Materials.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Assignments/MeetLti/Meetings.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Chrome/Addresses and more.json  (74B)
+│  Autofill: []
+│  Autofill Profile: []
+│  Contact Info: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Chrome/Device Information.json  (25B)
+│  Device Info: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Chrome/Extensions.json  (54B)
+│  Extensions: []
+│  Extension Settings: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Chrome/History.json  (26.2KB)
+│  Browser History: []
+│  Typed Url: []
+│  Session:
+│    Array [8 items], each item:
+│    tab_node_id: number
+│    tab:
+│    current_navigation_index: number
+│    tab_id: number | number (looks like unix-seconds timestamp) | number (looks like unix-seconds timestamp) | number (looks like unix-seconds timestamp) | number (looks like unix-seconds timestamp)
+│    pinned: boolean
+│    navigation:
+│    Array [4 items], each item:
+│    navigation_from_address_bar: boolean
+│    unique_id: number
+│    navigation_forward_back: boolean
+│    http_status_code: number
+│    global_id: number (looks like unix-microseconds timestamp)
+│    page_transition: string (len=5) | string (len=13) | string (len=5) | string (len=13) | string (len=4) | string (len=13) | string (len=5) | string (len=4) | string (len=4) | string (len=4) | string (len=13)
+│    task_id: number (looks like unix-microseconds timestamp)
+│    title: string (len=7) | string (len=17) | string (len=7) | string (len=25) | string (len=25) | string (len=7) | string (len=7) | string (len=60) | string (len=6) | string (len=113) | string (len=14) | string (len=25)
+│    timestamp_msec: number (looks like unix-ms timestamp)
+│    password_state: string (len=17) | string (len=22) | string (len=17) | string (len=22) | string (len=22)
+│    referrer: string (empty) | string (empty) | string (url) | string (url) | string (empty) | string (empty)
+│    virtual_url: string (len=16) | string (url) | string (len=16) | string (url) | string (url) | string (len=16) | string (len=16) | string (url) | string (url) | string (url) | string (url) | string (url)
+│    is_restored: boolean
+│    correct_referrer_policy: number
+│    navigation_home_page: boolean
+│    ancestor_task_id: Array [2 items], each item: number (looks like unix-microseconds timestamp) | number | number (looks like unix-microseconds timestamp) | number | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number | number (looks like unix-microseconds timestamp) | number | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number
+│    page_language: string (len=2) | string (len=3) | string (len=2) | string (len=2) | string (len=3)
+│    favicon_url: string (url)
+│    replaced_navigation:
+│    first_page_transition: string (len=13) | string (len=5) | string (len=4) | string (len=4) | string (len=4)
+│    first_committed_url: string (url)
+│    first_timestamp_msec: number (looks like unix-ms timestamp)
+│    extension_app_id: string (empty)
+│    browser_type: string (len=11)
+│    window_id: number | number (looks like unix-seconds timestamp) | number (looks like unix-seconds timestamp) | number (looks like unix-seconds timestamp) | number (looks like unix-seconds timestamp)
+│    tab_visual_index: number
+│    session_tag: string (len=24)
+│    header:
+│    device_form_factor: string (len=26)
+│    device_type: string (len=8)
+│    window:
+│    Array [1 items], each item:
+│    selected_tab_index: number
+│    tab: Array [2 items], each item: number (looks like unix-seconds timestamp) | number | number (looks like unix-seconds timestamp)
+│    browser_type: string (len=11)
+│    window_id: number (looks like unix-seconds timestamp) | number | number (looks like unix-seconds timestamp)
+│    client_name: string (len=17) | string (len=15) | string (len=7)
+│  Shared Tab Group: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Chrome/OS Settings.json  (132B)
+│  Arc Package: []
+│  OS Preferences: []
+│  OS Priority Preferences: []
+│  Workspace Desk: []
+│  Printers: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Chrome/Settings.json  (12.4KB)
+│  App Settings: []
+│  App Lists: []
+│  Search Engines:
+│    Array [11 items], each item:
+│    suggestions_url: string (url) | string (empty) | string (len=392) | string (url) | string (empty) | string (empty) | string (url) | string (url) | string (empty) | string (empty) | string (empty)
+│    favicon_url: string (url) | string (empty) | string (url) | string (url) | string (url) | string (url) | string (url) | string (url) | string (empty) | string (url) | string (empty)
+│    safe_for_autoreplace: boolean
+│    is_active: string (len=25) | string (len=18) | string (len=25) | string (len=25) | string (len=25) | string (len=25) | string (len=25) | string (len=25) | string (len=18) | string (len=25) | string (len=18)
+│    date_created: number | number (looks like unix-microseconds timestamp) | number | number | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number | number | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp)
+│    starter_pack_id: number
+│    url: string (url) | string (len=35) | string (len=284) | string (url) | string (url) | string (url) | string (url) | string (url) | string (len=33) | string (url) | string (len=30)
+│    new_tab_url: string (url) | string (empty) | string (empty) | string (empty) | string (empty) | string (empty) | string (url) | string (url) | string (empty) | string (empty) | string (empty)
+│    originating_url: string (empty) | string (url) | string (url) | string (empty) | string (empty) | string (empty) | string (url) | string (empty)
+│    sync_guid: string (UUID)
+│    short_name: string (len=6) | string (len=9) | string (len=6) | string (len=19) | string (len=6) | string (len=6) | string (len=4) | string (len=10) | string (len=7) | string (len=7) | string (len=4)
+│    keyword: string (len=10) | string (len=12) | string (len=9) | string (len=10) | string (len=8) | string (len=14) | string (len=8) | string (len=11) | string (len=5)
+│    input_encodings: string (len=5) | string (empty) | string (len=5) | string (len=5) | string (empty) | string (len=5) | string (len=5) | string (len=5) | string (empty) | string (empty) | string (empty)
+│    prepopulate_id: number
+│    last_modified: number (looks like unix-microseconds timestamp) | number | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp) | number (looks like unix-microseconds timestamp)
+│    image_url_post_params: string (len=187) | string (len=38)
+│    image_url: string (len=35) | string (url)
+│    alternate_urls: Array [5 items], each item: string (len=32) | string (len=38) | string (len=37) | string (len=33) | string (len=33)
+│  Apps:
+│    Array [1 items], each item:
+│    app_launch_ordinal: string (len=1)
+│    extension:
+│    incognito_enabled: boolean
+│    remote_install: boolean
+│    disable_reasons: number
+│    update_url: string (empty)
+│    id: string (len=32)
+│    version: string (len=3)
+│    enabled: boolean
+│    page_ordinal: string (len=1)
+│  Preferences:
+│    Array [20 items], each item:
+│    name: string (len=17) | string (len=46) | string (len=34) | string (len=52) | string (len=47) | string (len=23) | string (len=35) | string (len=55) | string (len=21) | string (len=24) | string (len=34) | string (len=76) | string (len=43) | string (len=42) | string (len=58) | string (len=24) | string (len=46) | string (len=50) | string (len=42) | string (len=47)
+│    value: string (len=255) | string (len=2) | string (len=2) | string (len=2) | string (len=2) | string (len=10) | string (len=8) | string (len=2) | string (len=10) | string (len=8) | string (len=2) | string (len=2) | string (len=2) | string (len=2) | string (len=4) | string (len=2) | string (len=2) | string (len=2) | string (len=2) | string (len=2)
+│  Themes:
+│    Array [1 items], each item:
+│    use_system_theme_by_default: boolean
+│    autogenerated_color_theme:         color: number
+│    use_custom_theme: boolean
+│  Priority Preferences: []
+│  Web Apps: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Business Profile/account-109302455300896101438/data.json  (101B)
+│  name: string (len=30)
+│  accountName: string (len=12)
+│  type: string (len=8)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Business Profile/businessPersonalization.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Chat/Users/User 109302455300896101438/unsentmessages.json  (27B)
+│  unsent_messages: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Chat/Users/User 109302455300896101438/user_info.json  (108B)
+│  user:
+│    name: string (len=12)
+│    email: string (email-like)
+│    user_type: string (len=5)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Finance/Watchlists/Watchlist.json  (43B)
+│  Name: string (len=9)
+│  Holdings: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Movies & TV/Linked Services.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Movies & TV/Notification Preferences.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Movies & TV/Ratings.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Movies & TV/Streaming Services.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Movies & TV/Watchlist.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Store/Library.json  (156B)
+│Array [1 items], each item:
+│      libraryDoc:
+│        doc:
+│        documentType: string (len=5)
+│        title: string (len=10)
+│        acquisitionTime: string (ISO-8601 datetime)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Play Store/Purchase History.json  (246B)
+│Array [1 items], each item:
+│      purchaseHistory:
+│        invoicePrice: string (len=5)
+│        userLanguageCode: string (len=5)
+│        userCountry: string (len=2)
+│        doc:
+│        documentType: string (len=5)
+│        title: string (len=10)
+│        purchaseTime: string (ISO-8601 datetime)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Store/Purchases.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Google Store/Returns and Repairs.json  (3B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/ApplicationPermissions.json  (74B)
+│  Home Platform Application Permissions Grants: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/Automations.json  (46B)
+│  Automations Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/GoogleNestConnect.json  (54B)
+│  Google Nest Connect Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/GoogleNestPartnerConnections.json  (66B)
+│  Google Nest Partner Connections Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/HomeApp.json  (43B)
+│  Home App Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/HomeHistory.json  (2B)
+│
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/SecurityAlarmClips.json  (55B)
+│  Security Alarm Clips Data: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Home App/SoundSensing.json  (46B)
+│  SoundSensingData: Array [1 items], each item: 
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Maps/Added dishes, products, activities/Added dishes, products, activities.json  (25B)
+│  contributions: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Maps/Electric vehicle settings/Electric vehicle settings.json  (37B)
+│  electric_vehicle_profiles: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Maps/Questions and answers/Questions and answers.json  (75B)
+│  answers: []
+│  questions: []
+│  replies: []
+│  thumbs_ups: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Maps/Requests for services/Requests for services.json  (1B)
+│  [Parse error: Unexpected end of JSON input]
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Maps/Vehicle profiles/Vehicle profiles.json  (28B)
+│  vehicle_profiles: []
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Profile/Profile.json  (142B)
+│  name:
+│    givenName: string (len=4)
+│    familyName: string (len=7)
+│    formattedName: string (len=12)
+│  displayName: string (len=12)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Tasks/Tasks.json  (348B)
+│  kind: string (len=15)
+│  items:
+│    Array [1 items], each item:
+│    create_time: string (ISO-8601 datetime)
+│    kind: string (len=11)
+│    id: string (len=32)
+│    title: string (len=8)
+│    updated: string (ISO-8601 datetime)
+│    selfLink: string (url)
+└────────────────────────────────────────────────────────────
+
+┌─ Takeout-2/Timeline/Settings.json  (1.3KB)
+│  createdTime: string (ISO-8601 datetime)
+│  modifiedTime: string (ISO-8601 datetime)
+│  deviceSettings:
+│    Array [1 items], each item:
+│    deviceTag: number
+│    reportingEnabled: boolean
+│    legalCountryCode: string (len=2)
+│    devicePrettyName: string (len=6)
+│    platformType: string (len=3)
+│    deviceCreationTime: string (ISO-8601 datetime)
+│    latestLocationReportingSettingChange:         reportingEnabledModificationTime: string (ISO-8601 datetime)
+│    iosVersion: string (len=4)
+│    deviceSpec:         device: string (len=10)
+│    deviceActiveness:         hasSavedTimelineData: boolean
+│  hasSetRetention: boolean
+│  storeVisitControl:
+│    enabled: boolean
+│    updateTime: string (ISO-8601 datetime)
+│  timelineEditUploadsControl:
+│    enabled: boolean
+│    updateTime: string (ISO-8601 datetime)
+│  encryptedBackupsControls:     -321246141:       enabled: boolean
+│  retentionControl:
+│    retentionWindowDays: number
+│    updateTime: string (ISO-8601 datetime)
+│  timelineEnabled: boolean
+│  timelineDeletionTime: string (ISO-8601 datetime)
+│  latestTimelineSettingChange:     timelineEnabledModificationTime: string (ISO-8601 datetime)
+│  googleOpinionRewardsControl:
+│    enabled: boolean
+│    updateTime: string (ISO-8601 datetime)
+└────────────────────────────────────────────────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CSV FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Takeout/YouTube and YouTube Music/channels/channel community moderation settings.csv  (41B, ~1 data rows)
+  Columns (1):
+    [0] Channel ID
+
+  Takeout/YouTube and YouTube Music/channels/channel feature data.csv  (267B, ~1 data rows)
+  Columns (7):
+    [0] Channel ID
+    [1] Channel auto-moderation in live chat
+    [2] Video default allowed comments type
+    [3] Video default targeted audience
+    [4] Video default licence
+    [5] Video default location latitude
+    [6] Video default location longitude
+
+  Takeout/YouTube and YouTube Music/channels/channel page settings.csv  (41B, ~1 data rows)
+  Columns (1):
+    [0] Channel ID
+
+  Takeout/YouTube and YouTube Music/channels/channel URL configs.csv  (82B, ~1 data rows)
+  Columns (2):
+    [0] Channel ID
+    [1] channel vanity URL 1 name
+
+  Takeout/YouTube and YouTube Music/channels/channel.csv  (105B, ~1 data rows)
+  Columns (3):
+    [0] Channel ID
+    [1] Channel title (Original)
+    [2] Channel visibility
+
+  Takeout/YouTube and YouTube Music/music (library and uploads)/music library songs.csv  (530B, ~8 data rows)
+  Columns (5):
+    [0] Video ID
+    [1] Song Title
+    [2] Album Title
+    [3] Artist Name 1
+    [4] Artist Name 2
+
+  Takeout/YouTube and YouTube Music/playlists/playlists.csv  (318B, ~1 data rows)
+  Columns (8):
+    [0] Playlist ID
+    [1] Add new videos to top
+    [2] Playlist title (original)
+    [3] Playlist title (original) language
+    [4] Playlist create timestamp
+    [5] Playlist update timestamp
+    [6] Playlist video order
+    [7] Playlist visibility
+
+  Takeout/YouTube and YouTube Music/playlists/Watch later videos.csv  (162B, ~3 data rows)
+  Columns (2):
+    [0] Video ID
+    [1] Playlist video creation timestamp
+
+  Takeout/YouTube and YouTube Music/subscriptions/subscriptions.csv  (146B, ~1 data rows)
+  Columns (3):
+    [0] Channel ID
+    [1] Channel URL
+    [2] Channel title
+
+  Takeout-2/Access log activity/Activities – A list of Google services accessed by.csv  (42.8KB, ~246 data rows)
+  Columns (13):
+    [0] Gaia ID
+    [1] Activity Timestamp
+    [2] IP Address
+    [3] Proxiedhost IP Address
+    [4] Is Non-routable IP Address
+    [5] Activity Country
+    [6] Activity Region
+    [7] Activity City
+    [8] User Agent String
+    [9] Product Name
+    [10] Sub-Product Name
+    [11] Activity Type
+    [12] Gmail Access Channel
+
+  Takeout-2/Access log activity/Devices – A list of devices (i.e. Nest, Pixel, iPh.csv  (316B, ~4 data rows)
+  Columns (9):
+    [0] Device Type
+    [1] Brand Name
+    [2] Marketing Name
+    [3] OS
+    [4] OS Version
+    [5] Device Model
+    [6] User Given Name
+    [7] Device Last Location
+    [8] Gaia ID
+
+  Takeout-2/Chrome/Dictionary.csv  (0B, ~-1 data rows)
+  Columns (1):
+    [0] 
+
+  Takeout-2/Discover/Not interested setting.csv  (26B, ~0 data rows)
+  Columns (1):
+    [0] Entity name	Setting value
+
+  Takeout-2/Discover/Your follows.csv  (16B, ~0 data rows)
+  Columns (1):
+    [0] Followed entity
+
+  Takeout-2/Discover/Your liked content.csv  (23B, ~0 data rows)
+  Columns (1):
+    [0] Content URL	Liked date
+
+  Takeout-2/Google Meet/ConferenceHistory/conference_history_retention.csv  (28B, ~1 data rows)
+  Columns (1):
+    [0] Retention
+
+  Takeout-2/Google Pay/Google transactions/transactions_643328055442.csv  (187B, ~1 data rows)
+  Columns (7):
+    [0] Time
+    [1] Transaction ID
+    [2] Description
+    [3] Product
+    [4] Payment method
+    [5] Status
+    [6] Amount
+
+  Takeout-2/Google Pay/Money remittances and requests/Money remittances and requests.csv  (67B, ~0 data rows)
+  Columns (7):
+    [0] Time
+    [1] Transaction ID
+    [2] Description
+    [3] Memo
+    [4] Payment method
+    [5] Status
+    [6] Amount
+
+  Takeout-2/Google Shopping/Merchant Reviews/Merchant Reviews.csv  (34B, ~0 data rows)
+  Columns (3):
+    [0] Rating
+    [1] Comment
+    [2] Creation Timestamp
+
+  Takeout-2/Google Shopping/Product Reviews/Product Reviews.csv  (40B, ~0 data rows)
+  Columns (4):
+    [0] Rating
+    [1] Title
+    [2] Comment
+    [3] Creation Timestamp
+
+  Takeout-2/Groups/googlegroups.com/user data/recent activity/recently viewed discussions.csv  (75B, ~1 data rows)
+  Columns (1):
+    [0] Discussion Url
+
+  Takeout-2/Groups/googlegroups.com/user data/recent activity/recently viewed groups.csv  (137B, ~4 data rows)
+  Columns (1):
+    [0] Group Email
+
+  Takeout-2/Maps/Your local followed places/Your local followed places.csv  (18B, ~0 data rows)
+  Columns (3):
+    [0] Place
+    [1] Address
+    [2] URL
+
+  Takeout-2/Search Notifications/USER-SETTINGS.CSV  (293B, ~1 data rows)
+  Columns (1):
+    [0] SCOPE IDENTIFIER	OPT IN STATE	CHANNEL IMPORTANCE	BADGE	SOUND	ALERTS	CRITICAL ALERTS	TIME SENSITIVE	NOTIFICATION CENTER	DISPLAYED ON LOCK SCREEN	ACCEPTS SCHEDULED DELIVERY	LIVE ACTIVITY	LOCATION ALLOWED
+
+  Takeout-2/Search Notifications/USER-SUBSCRIPTIONS.CSV  (44B, ~0 data rows)
+  Columns (1):
+    [0] SUBSCRIPTION IDENTIFIER	SUBSCRIPTION STATUS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HTML FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Takeout/YouTube and YouTube Music/history/search-history.html  (1.7MB)
+  Top tags: div(×2526), br(×2523), a(×841), b(×840), p(×421), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout/YouTube and YouTube Music/history/watch-history.html  (7.8MB)
+  Top tags: br(×2643), div(×2315), a(×1100), b(×770), p(×386), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout-2/Chrome/Bookmarks.html  (1.2KB)
+  Top tags: p(×8), dt(×6), dl(×4), h3(×3), a(×3), meta(×1), title(×1), h1(×1)
+  CSS classes (0):
+
+  Takeout-2/Chrome/Reading list.html  (267B)
+  Top tags: p(×2), meta(×1), title(×1), h1(×1), dl(×1)
+  CSS classes (0):
+
+  Takeout-2/Gemini/gemini_gems_data.html  (11B)
+  Top tags: div(×1)
+  CSS classes (0):
+
+  Takeout-2/Gemini/gemini_scheduled_actions_data.html  (11B)
+  Top tags: div(×1)
+  CSS classes (0):
+
+  Takeout-2/Google Account/20206905@hope.ac.uk.ChangeHistory.html  (4.2KB)
+  Top tags: td(×185), tr(×38), th(×5), li(×2), head(×1), meta(×1), title(×1), style(×1), h2(×1), ul(×1), br(×1), table(×1)
+  CSS classes (0):
+
+  Takeout-2/Google Account/20206905@hope.ac.uk.SubscriberInfo.html  (3.8KB)
+  Top tags: td(×32), li(×27), div(×8), th(×8), ul(×7), tr(×5), b(×4), br(×3), head(×1), meta(×1), title(×1), style(×1)
+  CSS classes (1):
+    .section
+
+  Takeout-2/My Activity/Drive/My Activity.html  (151.4KB)
+  Top tags: br(×160), div(×121), b(×40), p(×20), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout-2/My Activity/Takeout/My Activity.html  (144.2KB)
+  Top tags: br(×18), div(×13), b(×4), p(×2), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout-2/My Activity/YouTube/My Activity.html  (9.4MB)
+  Top tags: br(×2625), div(×2352), a(×1056), b(×782), p(×392), html(×1), head(×1), title(×1), style(×1), body(×1)
+  Date formats: Month DD, YYYY format
+  data-* attrs: data-badge, data-table, data-table__select, data-table__header--sorted-ascending, data-table__header--sorted-descending, data-table__cell--non-numeric, data-mdl-disabled
+  CSS classes (12):
+    .mdl-grid  .outer-cell  .mdl-cell  .mdl-cell--12-col
+    .mdl-shadow--2dp  .header-cell  .mdl-typography--title  .content-cell
+    .mdl-cell--6-col  .mdl-typography--body-1  .mdl-typography--text-right  .mdl-typography--caption
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/adminregister.html  (859B)
+  Top tags: td(×9), tr(×5), input(×5), label(×4), meta(×2), html(×1), head(×1), title(×1), body(×1), form(×1), table(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/createcourse.html  (728B)
+  Top tags: td(×7), tr(×4), input(×4), label(×3), meta(×2), html(×1), head(×1), title(×1), body(×1), form(×1), table(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/home.html  (264B)
+  Top tags: meta(×2), a(×2), html(×1), head(×1), title(×1), body(×1), br(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/login.html  (587B)
+  Top tags: td(×5), tr(×3), input(×3), meta(×2), label(×2), html(×1), head(×1), title(×1), body(×1), form(×1), table(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/register.html  (374B)
+  Top tags: a(×3), meta(×2), br(×2), html(×1), head(×1), title(×1), body(×1), p(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/tutorregister.html  (859B)
+  Top tags: td(×9), tr(×5), input(×5), label(×4), meta(×2), html(×1), head(×1), title(×1), body(×1), form(×1), table(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/viewcourses.html  (429B)
+  Top tags: input(×3), meta(×2), label(×2), br(×2), html(×1), head(×1), title(×1), body(×1), form(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Hughs WebDev Coursework New/Ace Training/viewcoursesstudent.html  (614B)
+  Top tags: td(×5), tr(×3), input(×3), meta(×2), label(×2), html(×1), head(×1), title(×1), body(×1), form(×1), table(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Magic File/templates/artists.html  (988B)
+  Top tags: td(×8), b(×5), meta(×2), a(×2), tr(×2), html(×1), head(×1), link(×1), title(×1), style(×1), body(×1), button(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Magic File/templates/home.html  (2.2KB)
+  Top tags: a(×15), button(×10), img(×10), p(×6), th(×5), h2(×5), meta(×2), html(×1), head(×1), link(×1), body(×1), h1(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Magic File/templates/single-artist.html  (642B)
+  Top tags: meta(×2), html(×1), head(×1), link(×1), title(×1), body(×1), button(×1), a(×1), img(×1), h1(×1), h2(×1), p(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Magic File/templates/songs.html  (642B)
+  Top tags: meta(×2), a(×2), html(×1), head(×1), link(×1), title(×1), body(×1), button(×1), img(×1), h1(×1), h2(×1)
+  CSS classes (0):
+
+  Takeout-4/Drive/Dissertation Supervisors.xlsx.html  (448B)
+  Top tags: p(×4), dl(×2), dt(×2), meta(×1), title(×1), h3(×1), a(×1)
+  CSS classes (0):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OTHER TEXT FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Takeout-2/News/articles.txt  (0B)
+  Preview: 
+
+  Takeout-2/News/followed_locations.txt  (0B)
+  Preview: 
+
+  Takeout-2/News/followed_sources.txt  (0B)
+  Preview: 
+
+  Takeout-2/News/followed_topics.txt  (0B)
+  Preview: 
+
+  Takeout-2/News/magazines.txt  (0B)
+  Preview: 
+
+  Takeout-4/Drive/Colab Notebooks/CSCCORE2H/IS 9 Reinforcement Learning Introduction/Approx_qlearning_pytorch.ipynb.txt  (31.3KB)
+  Preview: {"cells":[{"cell_type":"markdown","metadata":{"id":"NcSK21rAk3WB"},"source":["# Approximate q-learning\n","\n","In this notebook you will teach a __PyTorch__ neural network to do Q-learning."]},{"cell
+
+======================================================================
+  DONE — safe to share this output with your AI
+======================================================================
+
