@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Time Capsule — Your Digital Past</title>
+  <meta name="description"
+    content="Upload your personal data exports from Facebook, Instagram, Google and more to explore what you were doing on any day across the years." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- ===== LANDING SCREEN ===== -->
+  <div id="screen-landing" class="screen active">
+    <div class="landing-bg">
+      <div class="orb orb-1"></div>
+      <div class="orb orb-2"></div>
+      <div class="orb orb-3"></div>
+    </div>
+    <div class="landing-content">
+      <div class="logo">
+        <span class="logo-icon">⏳</span>
+        <span class="logo-text">Time Capsule</span>
+      </div>
+      <h1 class="hero-title">Your entire digital life,<br /><span class="gradient-text">one day at a time.</span></h1>
+      <p class="hero-subtitle">Upload your personal data exports from Facebook, Instagram, Google and more. Pick any
+        date and discover what you were doing across the years — all processed privately in your browser.</p>
+      <div class="privacy-badge">
+        <span class="privacy-icon">🔒</span>
+        <span>Your data never leaves your device</span>
+      </div>
+      <button class="btn-primary" id="btn-get-started">Get Started →</button>
+      <div class="company-chips">
+        <span class="chip chip-fb">📘 Facebook</span>
+        <span class="chip chip-ig">📸 Instagram</span>
+        <span class="chip chip-google">🔍 Google</span>
+        <span class="chip chip-apple">🍎 Apple</span>
+        <span class="chip chip-more">+ More coming</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== UPLOAD SCREEN ===== -->
+  <div id="screen-upload" class="screen">
+    <header class="app-header">
+      <button class="btn-back" id="btn-back-upload">← Back</button>
+      <div class="logo small">
+        <span class="logo-icon">⏳</span>
+        <span class="logo-text">Time Capsule</span>
+      </div>
+      <div></div>
+    </header>
+    <div class="upload-content">
+      <h2 class="section-title">Choose a platform to import</h2>
+      <p class="section-subtitle">Select a company, then upload your data export folder. You can add multiple platforms.
+      </p>
+
+      <div class="platform-grid">
+        <button class="platform-card" data-platform="facebook">
+          <span class="platform-icon">📘</span>
+          <span class="platform-name">Facebook</span>
+          <span class="platform-status" id="status-facebook"></span>
+        </button>
+        <button class="platform-card" data-platform="instagram">
+          <span class="platform-icon">📸</span>
+          <span class="platform-name">Instagram</span>
+          <span class="platform-status" id="status-instagram"></span>
+        </button>
+        <button class="platform-card" data-platform="snapchat">
+          <span class="platform-icon">👻</span>
+          <span class="platform-name">Snapchat</span>
+          <span class="platform-status" id="status-snapchat"></span>
+        </button>
+        <button class="platform-card" data-platform="google">
+          <span class="platform-icon">🔍</span>
+          <span class="platform-name">Google</span>
+          <span class="platform-status" id="status-google"></span>
+        </button>
+        <button class="platform-card coming-soon" disabled>
+          <span class="platform-icon">🍎</span>
+          <span class="platform-name">Apple</span>
+          <span class="platform-badge">Coming soon</span>
+        </button>
+        <button class="platform-card coming-soon" disabled>
+          <span class="platform-icon">🎵</span>
+          <span class="platform-name">Spotify</span>
+          <span class="platform-badge">Coming soon</span>
+        </button>
+        <button class="platform-card coming-soon" disabled>
+          <span class="platform-icon">🎬</span>
+          <span class="platform-name">Netflix</span>
+          <span class="platform-badge">Coming soon</span>
+        </button>
+      </div>
+
+      <!-- Banks section -->
+      <h3 class="platforms-section-label">🏦 Banks &amp; Finance</h3>
+      <div class="platform-grid">
+        <button class="platform-card" data-platform="metrobank">
+          <span class="platform-icon">🏦</span>
+          <span class="platform-name">Metro Bank</span>
+          <span class="platform-status" id="status-metrobank"></span>
+        </button>
+      </div>
+
+      <!-- Upload Panel (shown when platform selected) -->
+      <div id="upload-panel" class="upload-panel hidden">
+        <div class="upload-instruction" id="upload-instruction"></div>
+        <div class="upload-zone" id="upload-zone">
+          <div class="upload-zone-inner">
+            <div class="upload-icon">📁</div>
+            <p class="upload-primary">Click to select your export folder</p>
+            <p class="upload-secondary">or drag and drop the folder here</p>
+            <input type="file" id="folder-input" webkitdirectory multiple accept=".json" />
+          </div>
+        </div>
+        <div id="upload-progress" class="upload-progress hidden">
+          <div class="progress-bar">
+            <div class="progress-fill" id="progress-fill"></div>
+          </div>
+          <p class="progress-text" id="progress-text">Reading files…</p>
+        </div>
+      </div>
+
+      <div class="loaded-platforms" id="loaded-platforms"></div>
+
+      <button class="btn-primary" id="btn-view-results" style="display:none">View My Time Capsule →</button>
+    </div>
+  </div>
+
+  <!-- ===== RESULTS SCREEN ===== -->
+  <div id="screen-results" class="screen">
+    <header class="app-header">
+      <button class="btn-back" id="btn-back-results">← Add more</button>
+      <div class="logo small">
+        <span class="logo-icon">⏳</span>
+        <span class="logo-text">Time Capsule</span>
+      </div>
+      <div></div>
+    </header>
+
+    <div class="results-controls">
+      <div class="date-picker-wrapper">
+        <label for="date-picker">Exploring</label>
+        <div class="date-display">
+          <input type="date" id="date-picker" />
+          <span class="date-label" id="date-label"></span>
+        </div>
+      </div>
+      <div class="filter-chips" id="filter-chips"></div>
+    </div>
+
+    <div class="results-summary" id="results-summary"></div>
+
+    <div class="timeline" id="timeline"></div>
+
+    <div class="empty-state hidden" id="empty-state">
+      <div class="empty-icon">🕰️</div>
+      <h3>No memories found for this date</h3>
+      <p>Try a different date, or add more platform exports.</p>
+    </div>
+  </div>
+
+  <!-- ===== INFO SIDEBAR ===== -->
+  <div id="info-overlay" class="info-overlay hidden">
+    <div class="info-panel">
+      <button class="btn-close" id="btn-close-info">✕</button>
+      <h3 id="info-title"></h3>
+      <div id="info-body"></div>
+    </div>
+  </div>
+
+  <script src="parsers/facebook.js"></script>
+  <script src="parsers/instagram.js"></script>
+  <script src="parsers/snapchat.js"></script>
+  <script src="parsers/metrobank.js"></script>
+  <script src="parsers/google.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
